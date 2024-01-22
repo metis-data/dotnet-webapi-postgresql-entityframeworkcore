@@ -1,0 +1,1 @@
+dotnet test tests/dotnet-webapi-postgresql-entityframeworkcore-tests.csproj
